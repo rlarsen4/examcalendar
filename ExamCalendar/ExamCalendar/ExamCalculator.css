@@ -1,0 +1,25 @@
+﻿body {
+}
+
+h2 
+{
+    font-family: Sans-Serif;
+}
+table.center
+{
+    margin-left:22%;
+    margin-right:22%; 
+    width:56%;   
+}
+
+td.calendar
+{
+    text-align:center;
+    width:50%;
+}
+
+td.text
+{
+    text-align:center;
+    width:50%;
+}
